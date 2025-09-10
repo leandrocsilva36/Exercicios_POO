@@ -1,0 +1,14 @@
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\bin\Debug\net8.0\Exercicios_POO.exe
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\bin\Debug\net8.0\Exercicios_POO.deps.json
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\bin\Debug\net8.0\Exercicios_POO.runtimeconfig.json
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\bin\Debug\net8.0\Exercicios_POO.dll
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\bin\Debug\net8.0\Exercicios_POO.pdb
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.AssemblyInfoInputs.cache
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.AssemblyInfo.cs
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.csproj.CoreCompileInputs.cache
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.dll
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\refint\Exercicios_POO.dll
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.pdb
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\Exercicios_POO.genruntimeconfig.cache
+C:\Users\BUIA\Documents\teste\Professor\Atividades-CSharp25M-177-main\Correcao_Exercicios_POO\Correcao_Exercicios_POO\obj\Debug\net8.0\ref\Exercicios_POO.dll
